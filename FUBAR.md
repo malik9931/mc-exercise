@@ -1,1 +1,2 @@
- “This is what Malek & Lina did on Lina’s computer when working on the first feature branch1-ML”
+This is what Malek & Lina did on Malek’s computer when working on the third feature on Branch3-ML-malekControl
+Conflict resolved 
